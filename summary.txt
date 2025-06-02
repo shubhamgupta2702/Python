@@ -1,0 +1,6 @@
+arth - maths calculation
+comaprision - compare values
+logical - combine
+assignment - assign values
+identity - compare object memory location is/is not
+membership - value exist in sequence in/not in

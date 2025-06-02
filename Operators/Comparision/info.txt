@@ -1,0 +1,2 @@
+compare values
+Boolean true or false

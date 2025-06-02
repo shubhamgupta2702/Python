@@ -1,0 +1,10 @@
+multiple times repeat
+
+while loop
+for loop
+
+while loop
+true
+
+while condition:
+    #code
