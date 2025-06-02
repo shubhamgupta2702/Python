@@ -20,21 +20,10 @@ This repository contains my learning journey through Python programming fundamen
 - Basic OOP concepts
 - And more as I progress!
 
-## 📂 Repository Structure
-```
-python-basics/
-│
-├── examples/          # Basic syntax examples
-├── exercises/         # Practice problems
-├── projects/          # Small applications
-├── notes/             # Learning notes
-└── README.md          # This file
-```
-
 ## 💻 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-basics.git
+   [git clone https://github.com/your-username/python-basics.git]
    ```
 2. Navigate to specific folders to view examples or exercises
 3. Run Python files using:
