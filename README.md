@@ -23,7 +23,7 @@ This repository contains my learning journey through Python programming fundamen
 ## 💻 How to Use
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/python-basics.git]
+   [(https://github.com/shubhamgupta2702/Python.git)]
    ```
 2. Navigate to specific folders to view examples or exercises
 3. Run Python files using:
