@@ -8,3 +8,13 @@ true
 
 while condition:
     #code
+
+
+for loop - iterate over sequences only
+[1,2,3,4,5]
+5 times
+
+lists tuples dictionary string
+
+for variable in sequence:
+  #code execute

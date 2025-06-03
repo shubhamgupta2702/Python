@@ -1,0 +1,36 @@
+strings and characters
+combination of characters -> strings
+
+a-z A-Z !@#$%^&*
+"  " whitespaces
+
+
+single quote -'python'
+double quote - "Python"
+triple quotes - 
+'''
+this is multiline
+'''
+
+"""
+this is also 
+multiline
+"""
+
+-----------------
+3 characteristics
+
+1- immutable -> cannot change, only update
+2- indexed 
+  a = "python"
+  print(a[0])
+  print(a[-1]) # Last element
+  print(a[-2]) #Last second element
+3 - iterable
+
+-----------------
+4 - real life examples
+  used to store names and all details of user.
+  displays greet messages as well.
+
+
