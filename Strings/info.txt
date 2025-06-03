@@ -32,5 +32,6 @@ multiline
 4 - real life examples
   used to store names and all details of user.
   displays greet messages as well.
+  and many other uses.
 
 
