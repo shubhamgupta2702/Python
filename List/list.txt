@@ -1,0 +1,8 @@
+store group of elements 
+multiple elements and operations can be performed
+multiple types of data
+
+1-ordered
+2-mutable
+3-dynamic
+4-heterogeneous
