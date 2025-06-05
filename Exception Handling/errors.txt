@@ -1,0 +1,26 @@
+errors?
+
+a> - compile time errors (eg: colon,semicolon,braces,etc)
+b> - runtime errors(while program is running)
+c> - logical errors(output is not expected)
+
+
+errors in software - bugs
+fixing errors/bugs - debugging
+
+exception -> 
+1 - start running
+2 - warning sign
+3 - catch and handle, program catch
+
+exception handling ?
+
+try-except block
+try - code error
+except - what to do after error occurs
+
+finally block
+
+
+
+nested try accept block

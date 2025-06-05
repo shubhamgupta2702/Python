@@ -1,0 +1,11 @@
+a class is a blueprint or template for creating objects.
+
+map - class
+house - object
+
+object are the actual instance of the class.
+
+class = car blueprint
+object = actual car (BMW, Tesla, Alto 800)
+
+-----------------------------------------------------------------

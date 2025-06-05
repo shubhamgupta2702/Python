@@ -54,6 +54,6 @@ MIT © [Shubham Gupta] | Code freely, learn endlessly!
 
 ---
 
-**🌟 Happy Coding!** Let's turn `print("Hello World")` into something amazing! 🐍💻  
+**🌟 Happy Coding!🐍** Let's turn `print("Hello World")` into something amazing! 🐍💻  
 
 ---  

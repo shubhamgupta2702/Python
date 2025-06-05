@@ -1,0 +1,11 @@
+files - stores data of any type
+
+2 primary files types-
+ 1 - text files (.txt, .csv)
+ 2 - binary files (.png, .pdf, .mp3, .jpg)
+
+
+read() - r
+write() - w
+append() - a
+read+write() - r+
